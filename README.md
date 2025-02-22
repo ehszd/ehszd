@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello!! 👋
+
+I graduated recently (woo!), so I have time to get back into coding outside of my degree again!
+
+Mostly just figuring out stuff at the moment. Not sure what will come next... But this feels like an important first step.
+
+I'm currently focusing on improving my Python, and also on learning SQL. Plus whatever else looks interesting / turns out to be useful. Maybe I'll even make something someday that other people will be able to use!
 
 <!--
 **ehszd/ehszd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
